@@ -7,9 +7,7 @@ keywords: windows 10, uwp, windows community toolkit, uwp community toolkit, uwp
 
 # BackdropBlurBrush
 
-The [BackdropBlurBrush](https://docs.microsoft.com/dotnet/api/microsoft.toolkit.uwp.ui.media.backdropblurbrush) is a [Brush](https://docs.microsoft.com/uwp/api/windows.ui.xaml.media.brush) that blurs whatever is behind it in the application.
-
-> [!div class="nextstepaction"]
+The [BackdropBlurBrush](https://docs.microsoft.com/dotnet/api/microsoft.toolkit.uwp.ui.media.backdropblurbrush) is a [Brush](https://docs.microsoft.com/uwp/api/windows.ui.xaml.media.e
 > [Try it in the sample app](uwpct://Brushes?sample=BackdropBlurBrush)
 
 ## Syntax
